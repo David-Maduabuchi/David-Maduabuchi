@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I'm David Maduabuchi ✨  <br><br>🧠 Full Stack Web Developer  <br>🚀 3+ years of experience  <br>💻 I build with **React**, **TypeScript**, **Express.js**, **Next**, and **MongoDB**  <br>🎯 Focused on clean code and great user experience  <br>🌱 Currently learning **AWS** and **Next.js**  <br>📫 Reach me: [Portfolio](https://portfolio-david-chinedu.web.app)<br>
+ Hi, I'm David Maduabuchi ✨  <br><br>🧠 Full Stack Web Developer  <br>🚀 3+ years of experience  <br>💻 I build with **React**, **TypeScript**, **Express.js**, **Next**, and **MongoDB**  <br>🎯 Focused on clean code and great user experience  <br>🌱 Currently learning **AWS** and **Next.js**  <br>📫 Reach me: [Portfolio](https://portfolio-david-chinedu.web.app)<br>
 
 
 # 💻 Tech Stack:
